@@ -29,6 +29,9 @@ Checkout the source. Change into the folder. Then run:
 This will generate the filter here: 
 ./dist/build/pandoc-plantuml-filter/pandoc-plantuml-filter
 
+You'll need to also place plantuml.jar into /opt/plantuml/plantuml.jar 
+And then place plantuml in the path
+
 ## Usage
 
 e.g. Generating .pdf from this file
