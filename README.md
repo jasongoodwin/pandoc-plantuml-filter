@@ -11,6 +11,23 @@ Replaces `CodeBlocks` with `plantuml` class with PlantUML generated UML diagram
 
 - `plantuml` in `PATH` which launches PlantUML jar (see `scripts` folder)
 - `pandoc`
+- `cabal` 
+
+## Installation (OSX)
+
+Prerequisites:
+
+- brew install graphviz 
+- brew install plantuml
+- brew install cabal-install
+- cabal update
+- cabal install cabal-install
+
+Checkout the source. Change into the folder. Then run:
+- cabal install
+
+This will generate the filter here: 
+./dist/build/pandoc-plantuml-filter/pandoc-plantuml-filter
 
 ## Usage
 
