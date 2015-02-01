@@ -11,9 +11,11 @@ Replaces `CodeBlocks` with `plantuml` class with PlantUML generated UML diagram
 
 - `plantuml` in `PATH` which launches PlantUML jar (see `scripts` folder)
 - `pandoc`
-- `cabal` 
+- the plantuml filter is built and included in the root of this fork!
 
-## Installation (OSX)
+## Build From Source (OSX)
+
+This fork has the built filder so you don't need to build but if you'd like to here are the steps (OSX)
 
 Prerequisites:
 
