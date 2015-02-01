@@ -1,8 +1,7 @@
 # Pandoc PlantUML Filter (Fork with built filter)
 
 Replaces `CodeBlocks` with `plantuml` class with PlantUML generated UML diagram
-
-**This is a work in progress.**
+Note: This fork contains extended instructions and a built filter so you won't need a full haskell/cabal installation to use this.
 
 ## Requirements
 
